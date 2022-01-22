@@ -1,5 +1,5 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi There!
-My name is Luan and i'am currently a Information Systems student at <a href="https://www.pucminas.br/main/Paginas/default.aspx">PUC Minas</a>. I love everything about software and technology! Every day I try to learn something new, and I am very happy to be a part of this universe and try to make it better. Feel free to find out and contact with me in these social medias:
+My name is Luan and i'am currently a Information Systems student at <a href="https://www.pucminas.br/main/Paginas/default.aspx">PUC Minas</a>. I love everything about software and technology! Every day I try to learn something new, and I am very happy to be part of this universe and try to make it better. Feel free to find out and contact with me in these social medias:
 
 <a href="#"><img src="https://img.shields.io/badge/luanotaviocostasilva@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/luan-ocs"><img src="https://img.shields.io/badge/luanocs-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
